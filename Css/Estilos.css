@@ -63,7 +63,7 @@ body
 #Texto #Tartaglia
 {
     position: relative;
-    top: -50px; 
+    top: -30px; 
     left: auto;
     right: -220px;
     width: 160px;
@@ -73,7 +73,7 @@ body
 #Texto #Signo
 {   
     position: relative;
-    top: -79px; 
+    top: -59px; 
     left: auto;
     right: -220px;
     width: 80px;
@@ -83,7 +83,7 @@ body
 #Texto #Julio
 {
     position: relative;
-    top: -50px; 
+    top: -30px; 
     left: auto;
     right: -220px;
     width: 160px;
@@ -98,6 +98,46 @@ body
     right: 50px;
     width: 80px;
     height: 80px;
+}
+
+#Texto #CabelloNaranja
+{
+    position: relative;
+    top: -5px; 
+    left: auto;
+    right: -200px;
+    width: 180px;
+    height: 200px;
+}
+
+#Texto #OjosAzules
+{
+    position: relative;
+    top: -5px; 
+    left: auto;
+    right: -270px;
+    width: 200px;
+    height: 200px;
+}
+
+#Texto #JulioPayaso
+{
+    position: relative;
+    top: -5px; 
+    left: auto;
+    right: -200px;
+    width: 200px;
+    height: 200px;
+}
+
+#Texto #TartagliaPayaso
+{
+    position: relative;
+    top: -5px; 
+    left: auto;
+    right: -270px;
+    width: 200px;
+    height: 200px;
 }
 
 #Texto #Tartulio
